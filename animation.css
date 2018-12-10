@@ -1,0 +1,59 @@
+@keyframes progress {
+    from {
+        background: red;
+    }
+    14% {
+        background: orange;
+    }
+    28% {
+        background: yellow;
+    }
+    42% {
+        background: green;
+    }
+    56% {
+        background: #308ea0;
+    }
+    70% {
+        background: blue;
+    }
+    to {
+        background: #a000ee;
+    }
+}
+
+@keyframes progress2 {
+    from {
+        background-color: white;
+    }
+    50% {
+        background-color: gray;
+    }
+    to {
+        background-color: white;
+    }
+}
+
+@keyframes progress3 {
+    from {
+        background-color: grey;
+    }
+    50% {
+        background-color: white;
+    }
+    to {
+        background-color: grey;
+    }
+}
+
+@keyframes progress4 {
+    from {
+        background-color: darkgray;
+    }
+    50% {
+        background-color: white;
+    }
+    to {
+        background-color: darkgray;
+    }
+}
